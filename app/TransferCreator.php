@@ -1,7 +1,6 @@
 <?php
 namespace app\TransferCreator;
 
-require_once '../vendor/autoload.php';
 use my_package\app\LogsToTelegram;
 
 class TransferCreator

@@ -11,12 +11,12 @@ $data example for sending to email:
             "host" => "smtp.gmail.com",
             "port" => 465,
             "encryption" => "ssl",
-            "username" => "maxim.sokolsky@gmail.com",
-            "password" => "Maso88769202",
+            "username" => "*********@gmail.com",
+            "password" => "********",
             "subject" => "Awesome subject",
-            "fromEmail" => "maxim.sokolsky@gmail.com",
+            "fromEmail" => "*********@gmail.com",
             "fromName" => "Max",
-            "toEmail" => "maxim.sokolsky@gmail.com",
+            "toEmail" => "*********@gmail.com",
             "toName" => "Me",
             "message" => "Here is my awesome message for myself:)"
         )

@@ -10,7 +10,7 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "max-s-upper/my_first_package": ">=2.0.0"
+    "max-s-upper/log_to_telegram": ">=2.0.0"
   },
   "autoload": {
     "classmap": ["app"]

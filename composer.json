@@ -1,5 +1,5 @@
 {
-  "name": "max-s-upper/transferCreator",
+  "name": "max-s-upper/transfer_creator",
   "description": "Sends a message to mail or telegram",
   "type": "library",
   "authors": [
